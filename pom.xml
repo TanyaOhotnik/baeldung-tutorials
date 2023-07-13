@@ -666,7 +666,6 @@
                 </plugins>
             </build>
 
-
         </profile>
 
         <profile>
@@ -704,6 +703,7 @@
                 <module>osgi</module>
                 <module>spring-katharsis</module>
                 <module>logging-modules</module>
+                <module>spring-boot-documentation</module>
                 <module>spring-boot-modules</module>
                 <module>apache-httpclient</module>
                 <module>apache-httpclient4</module>
@@ -730,6 +730,7 @@
                 <module>spring-drools</module>
                 <module>spring-cloud-modules/spring-cloud-contract</module>
                 <module>spring-cloud-modules/spring-cloud-data-flow</module>
+                <module>spring-cloud-modules/spring-cloud-circuit-breaker</module>
                 <module>spring-exceptions</module>
                 <module>spring-jenkins-pipeline</module>
                 <module>spring-core</module>
@@ -850,7 +851,6 @@
                 <module>javax-sound</module>
                 <module>javaxval</module>
                 <module>javaxval-2</module>
-                <module>javax-validation-advanced</module>
                 <module>jetbrains</module>
                 <module>jgit</module>
                 <module>jib</module>
@@ -892,7 +892,6 @@
                 <module>protobuffer</module>
                 <module>reactor-core</module>
                 <module>rsocket</module>
-
 
                 <!--  Modules from default second-->
                 <module>spring-5</module>
@@ -976,6 +975,7 @@
                 <module>osgi</module>
                 <module>spring-katharsis</module>
                 <module>logging-modules</module>
+                <module>spring-boot-documentation</module>
                 <module>spring-boot-modules</module>
                 <module>apache-httpclient</module>
                 <module>apache-httpclient4</module>
@@ -1000,6 +1000,7 @@
                 <module>spring-batch-2</module>
                 <module>spring-boot-rest</module>
                 <module>spring-drools</module>
+                <module>spring-cloud-modules/spring-cloud-circuit-breaker</module>
                 <module>spring-exceptions</module>
                 <module>spring-jenkins-pipeline</module>
                 <module>spring-core</module>
@@ -1120,7 +1121,6 @@
                 <module>javax-sound</module>
                 <module>javaxval</module>
                 <module>javaxval-2</module>
-                <module>javax-validation-advanced</module>
                 <module>jetbrains</module>
                 <module>jgit</module>
                 <module>jib</module>
@@ -1162,7 +1162,6 @@
                 <module>protobuffer</module>
                 <module>reactor-core</module>
                 <module>rsocket</module>
-
 
                 <!--  Modules from default second-->
 
